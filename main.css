@@ -20,6 +20,6 @@ div {
 
 #blue { border-top-color: blue; }
 
-#violet { border-top-color: indigo; }
+#indigo { border-top-color: #8a2be2; }
 
-#pink { border-top-color: violet; }
+#violet { border-top-color: violet; }
